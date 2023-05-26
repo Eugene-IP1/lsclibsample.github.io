@@ -6,7 +6,7 @@
 ## Anouncement
 * The LSC Library board website can be used now!
 
-
+<input class="button" type="submit" value="Post comment (input)"> (https://www.hkpl.gov.hk/en/index.html))
 ## LSC library
 e-library
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
