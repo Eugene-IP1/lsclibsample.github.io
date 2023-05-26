@@ -3,12 +3,12 @@
 ## La Salle College Library
 > The Library Board has been providing quality library services since 1982, intending to create a sound reading environment for Lasallians and promote lifelong reading.
 
-##　Announcement
+## Anouncement
 * The LSC Library board website can be used now!
 
-<a href="#" class="button">Post comment (https://www.hkpl.gov.hk/tc/index.html) </a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+<a href="#" class="button">Post comment ([link](https://www.hkpl.gov.hk/tc/index.html))</a>
+<input class="button" type="submit" value="HK LIB">
+
 
 ## LSC library
 e-library
