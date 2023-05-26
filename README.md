@@ -10,3 +10,4 @@ e-library
 [librarian handbook](https://drive.google.com/file/d/1gNilI_ws1JOCsFQLxM7ilPIUNptp8_II/view)
 
 
+Copyright © 2023, La Salle College Library Borad. All rights Reversed.
