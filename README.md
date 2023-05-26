@@ -6,8 +6,7 @@
 ## Anouncement
 * The LSC Library board website can be used now!
 
-<a href="#" class="button">Post comment ([link](https://www.hkpl.gov.hk/tc/index.html))</a>
-<input class="button" type="submit" value="HK LIB">
+<input class="button" type="submit" value="HK LIB">(https://www.hkpl.gov.hk/tc/index.html)
 
 
 ## LSC library
