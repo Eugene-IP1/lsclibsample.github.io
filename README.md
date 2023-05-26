@@ -6,9 +6,9 @@
 ## Anouncement
 * The LSC Library board website can be used now!
 
-<input class="button" type="submit" value="Post comment (input)">
+<input class="button" type="submit" value= Post comment (input)>
 <a href="#" class="button">Post comment (https://www.hkpl.gov.hk/en/index.html)</a>
-<button class="button" type="submit">Post comment (button)</button>
+
 
 ## LSC library
 e-library
