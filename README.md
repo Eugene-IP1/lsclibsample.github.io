@@ -7,7 +7,8 @@
 * The LSC Library board website can be used now!
 
 
-<a class="github-button" href="https://github.com/buttons/github-buttons/generate" data-color-scheme="no-preference: dark_dimmed; light: dark_high_contrast; dark: light_high_contrast;" data-size="large" aria-label="Use this template buttons/github-buttons on GitHub">Use this template</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 
 ## LSC library
 e-library
