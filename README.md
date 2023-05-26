@@ -4,7 +4,11 @@ La Salle College Library
 > The Library Board has been providing quality library services since 1982, intending to create a sound reading environment for Lasallians and promote lifelong reading.
 
 Announcement
-　　　:   　　：
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 LSC library
 e-library
