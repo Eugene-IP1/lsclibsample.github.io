@@ -6,8 +6,8 @@
 ##　Announcement
 * The LSC Library board website can be used now!
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<a class="github-button" href="https://github.com/buttons/github-buttons/generate" data-color-scheme="no-preference: dark_dimmed; light: dark_high_contrast; dark: light_high_contrast;" data-size="large" aria-label="Use this template buttons/github-buttons on GitHub">Use this template</a>
 
 ## LSC library
 e-library
