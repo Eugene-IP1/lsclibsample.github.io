@@ -4,8 +4,8 @@ La Salle College Library
 > The Library Board has been providing quality library services since 1982, intending to create a sound reading environment for Lasallians and promote lifelong reading.
 
 Announcement
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        |
+| ------------- |
 
 LSC library
 e-library
