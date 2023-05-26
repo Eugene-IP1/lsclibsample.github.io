@@ -6,6 +6,8 @@
 ##　Announcement
 * The LSC Library board website can be used now!
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ## LSC library
 e-library
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
