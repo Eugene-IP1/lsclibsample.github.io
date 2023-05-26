@@ -6,8 +6,6 @@
 ## Anouncement
 * The LSC Library board website can be used now!
 
-<input class="button" type="submit" value="HK LIB">(https://www.hkpl.gov.hk/tc/index.html)
-
 
 ## LSC library
 e-library
