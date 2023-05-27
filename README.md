@@ -5,6 +5,7 @@
 
 ## Anouncement
 * The LSC Library board website can be used now!
+* The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.
 
 ## LSC library
 e-library
