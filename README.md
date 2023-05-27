@@ -9,15 +9,15 @@
 
 ## Duty of Student Librarians | Conduct of Student Librarians
 --- | --- |
-1. Storage Counter | 1. No touching the counter
-2. Crowd control | 2. No usage of mobile devices
-3. Newspaper sorting | 3. No studying when on duty
-4. Book shelving | 4. Talk silently in the library
-5. Fine tune | 5. Be polite
-6. Patrolling
-7. Check due dates when break session ends
-8. Tidy up the Library after each session
-9. Year-end stock taking exercise (After Final Exam)
+Storage Counter | No touching the counter
+Crowd control | No usage of mobile devices
+Newspaper sorting | No studying when on duty
+Book shelving | Talk silently in the library
+Fine tune | Be polite
+Patrolling
+Check due dates when break session ends
+Tidy up the Library after each session
+Year-end stock taking exercise (After Final Exam)
 
 ## LSC library
 e-library
