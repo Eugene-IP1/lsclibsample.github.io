@@ -3,7 +3,7 @@
 ## La Salle College Library
 > The Library Board has been providing quality library services since 1982, intending to create a sound reading environment for Lasallians and promote lifelong reading.
 
-## Anouncement
+## Announcement
 * The LSC Library board website can be used now!
 * The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.
 
