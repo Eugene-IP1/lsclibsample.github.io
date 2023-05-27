@@ -8,6 +8,7 @@
 * The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.
 
 ## Duty of Student Librarians | Conduct of Student Librarians
+--- | --- |
 1. Storage Counter | 1. No touching the counter
 2. Crowd control | 2. No usage of mobile devices
 3. Newspaper sorting | 3. No studying when on duty
