@@ -21,11 +21,9 @@ Check due dates when break session ends |
 Tidy up the Library after each session |
 Year-end stock taking exercise (After Final Exam) |
 
-
 ## LSC library
 e-library
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
-
 
 ## Resources
 [librarian handbook](https://drive.google.com/file/d/1gNilI_ws1JOCsFQLxM7ilPIUNptp8_II/view)
@@ -36,8 +34,6 @@ e-library
 - Library Board Chairman: Li Chun Hei Angus 5F (s18226@lsc.hk / 9710 9286)
 - Library Bord Vice Chairman: Wong Yat Kiu 5F (s21427@lsc.hk / 5615 3499)
 - Library Bord Vice Chairman: Kwok Chun Hei Andison 5G (s18183@lsc.hk / 5593 9387)
-
-
 
 
 <code style="color : red"> **Copyright © 2023, La Salle College Library Borad. All rights Reversed.** </code>
