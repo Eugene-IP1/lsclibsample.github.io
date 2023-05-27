@@ -21,7 +21,7 @@ Check due dates when break session ends
 Tidy up the Library after each session
 Year-end stock taking exercise (After Final Exam)
 
-**Duty of Student Librarians** | **Conduct of Student Librarians**
+Duty of Student Librarians | Conduct of Student Librarians
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
