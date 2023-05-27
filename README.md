@@ -8,6 +8,7 @@
 * The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.
 
 ## Rules
+
 **Duty of Student Librarians** | **Conduct of Student Librarians** |
 --- | --- | ---
 Storage Counter | No touching the counter 
