@@ -20,6 +20,11 @@
 | Tidy up the Library after each session |
 | Year-end stock taking exercise (After Final Exam) |
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 ## LSC library
 e-library
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
