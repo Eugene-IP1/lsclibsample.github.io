@@ -9,17 +9,17 @@
 
 ## Rules
 
-| **Duty of Student Librarians** | **Conduct of Student Librarians** |
-| --- | --- |
-| Storage Counter | No touching the counter |
-| Crowd control | No usage of mobile devices |
-| Newspaper sorting | No studying when on duty |
-| Book shelving | Talk silently in the library |
-| Fine tune | Be polite |
-| Patrolling |
-| Check due dates when break session ends |
-| Tidy up the Library after each session |
-| Year-end stock taking exercise (After Final Exam) |
+**Duty of Student Librarians** | **Conduct of Student Librarians**
+--- | ---
+Storage Counter | No touching the counter
+Crowd control | No usage of mobile devices
+Newspaper sorting | No studying when on duty
+Book shelving | Talk silently in the library
+Fine tune | Be polite
+Patrolling
+Check due dates when break session ends
+Tidy up the Library after each session
+Year-end stock taking exercise (After Final Exam)
 
 
 ## LSC library
