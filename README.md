@@ -8,17 +8,17 @@
 * The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.
 
 ## Rules
-**Duty of Student Librarians** | **Conduct of Student Librarians** |
---- | --- |
-Storage Counter | No touching the counter |
-Crowd control | No usage of mobile devices |
-Newspaper sorting | No studying when on duty |
-Book shelving | Talk silently in the library |
-Fine tune | Be polite |
-Patrolling |
-Check due dates when break session ends |
-Tidy up the Library after each session |
-Year-end stock taking exercise (After Final Exam) |
+| **Duty of Student Librarians** | **Conduct of Student Librarians** |
+| --- | --- |
+| Storage Counter | No touching the counter |
+| Crowd control | No usage of mobile devices |
+| Newspaper sorting | No studying when on duty |
+| Book shelving | Talk silently in the library |
+| Fine tune | Be polite |
+| Patrolling |
+| Check due dates when break session ends |
+| Tidy up the Library after each session |
+| Year-end stock taking exercise (After Final Exam) |
 
 ## LSC library
 e-library
@@ -32,7 +32,7 @@ e-library
 - Teach incharge: Ms Amy Poon (library@lasalle.edu.hk)
 - Teacher Librarian: Ms Vivienne Chenung (library@lasalle.edu.hk)
 - Library Board Chairman: Li Chun Hei Angus 5F (s18226@lsc.hk / 9710 9286)
-- Library Bord Vice Chairman: Wong Yat Kiu 5F (s21427@lsc.hk / 5615 3499
+- Library Bord Vice Chairman: Wong Yat Kiu 5F (s21427@lsc.hk / 5615 3499)
                               Kwok Chun Hei Andison 5G (s18183@lsc.hk / 5593 9387)
 
 
