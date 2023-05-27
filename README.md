@@ -7,6 +7,17 @@
 * The LSC Library board website can be used now!
 * The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.
 
+## Duty of Student Librarians | Conduct of Student Librarians
+1. Storage Counter | 1. No touching the counter
+2. Crowd control | 2. No usage of mobile devices
+3. Newspaper sorting | 3. No studying when on duty
+4. Book shelving | 4. Talk silently in the library
+5. Fine tune | 5. Be polite
+6. Patrolling
+7. Check due dates when break session ends
+8. Tidy up the Library after each session
+9. Year-end stock taking exercise (After Final Exam)
+
 ## LSC library
 e-library
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
@@ -14,6 +25,15 @@ e-library
 
 ## Resources
 [librarian handbook](https://drive.google.com/file/d/1gNilI_ws1JOCsFQLxM7ilPIUNptp8_II/view)
+
+### Contact Info
+- Teach incharge: Ms Amy Poon (library@lasalle.edu.hk)
+- Teacher Librarian: Ms Vivienne Chenung (library@lasalle.edu.hk)
+- Library Board Chairman: Li Chun Hei Angus 5F (s18226@lsc.hk / 9710 9286)
+- Library Bord Vice Chairman: Wong Yat Kiu 5F (s21427@lsc.hk / 5615 3499
+                              Kwok Chun Hei Andison 5G (s18183@lsc.hk / 5593 9387)
+
+
 
 
 <code style="color : red"> **Copyright © 2023, La Salle College Library Borad. All rights Reversed.** </code>
