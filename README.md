@@ -9,7 +9,7 @@
 
 ## Rules
 
-**Duty of Student Librarians** | **Conduct of Student Librarians** |
+Duty of Student Librarians | **Conduct of Student Librarians**
 --- | --- | ---
 Storage Counter | No touching the counter 
 Crowd control | No usage of mobile devices 
