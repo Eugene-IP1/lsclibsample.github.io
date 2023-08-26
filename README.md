@@ -22,7 +22,7 @@ Tidy up the Library after each session |
 Year-end stock taking exercise (After Final Exam) |
 
 ## LSC library
-e-library
+粵語
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
 
 ## Resources
